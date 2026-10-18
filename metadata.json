@@ -1,0 +1,6 @@
+{
+  "name": "HospitaLogix - Sistema Clínico Post-Urgencias",
+  "description": "Plataforma web clínica multi-rol (Administrador, Médico, Paciente) para gestión y seguimiento hospitalario en salas de post-urgencias con autómata de estados finitos, inventario, prescripciones y agendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
